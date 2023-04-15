@@ -5,7 +5,7 @@ body{
     font-size: 14px;
     font-family: Garamond, Baskerville, Caslon,serif;
     font-weight: 400;
-    hr::after {
+    hr:after {
         content: " ";
         display: block;
         margin: 0 auto;
