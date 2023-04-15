@@ -2,5 +2,8 @@ body{
     margin: left 10 right 10;
     background: rgb(247, 246, 243)
     text-align: left;
-    font-family: Garamond,Baskerville,Caslon,serif;
+    font-size: 14px;
+    font-family: Garamond, Baskerville, Caslon,serif;
 }
+
+/* heading-font-family: "New York", Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol; */
