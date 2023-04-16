@@ -6,7 +6,7 @@ body{
     background: #dedace /*rgb(247, 246, 243)*/
     text-align: left;
     font-size: 14px;
-    font-family: Garamond, Baskerville, Caslon,serif;
+    font-family: Garamond, Baskerville, Caslon, serif;
     font-weight: 400;
     hr:after {
         content: " ";
